@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Youssef Waleed</h1>
-<h3 align="left">Open to opportunities as a Front-End Developer</h3>
+<h3 align="left">Front-End Developer</h3>
 
 <p align="left">
   <a href="mailto:youssefwaleed518@gmail.com">
@@ -23,6 +23,12 @@
 
 ---
 
+### 🎯 Career Goals
+I aim to build **modern, scalable, and user-friendly web applications** while continuously learning new technologies.  
+My goal is to contribute to **open-source projects**, collaborate with innovative teams, and grow into a **skilled full-stack developer** in the future.  
+
+---
+
 ### 🛠️ Skills & Tools
 
 <p align="left">
@@ -40,11 +46,12 @@
 ---
 
 ### 📂 Projects
-- 🔗 [Project 1](#) — Short description here  
-- 🔗 [Project 2](#) — Short description here  
-- 🔗 [Project 3](#) — Short description here  
+Here are some of my featured projects:
 
-*(You can replace these with real GitHub repos once you add them!)*
+- 🔗 [**Daniels**](https://github.com/youssefwaleed22/Daniels) — A modern responsive personal portfolio website.  
+- 🔗 [**Weather-API**](https://github.com/youssefwaleed22/Weather-API) — Weather app fetching real-time data from an API.  
+- 🔗 [**Note-App**](https://github.com/youssefwaleed22/note-app) — A simple CRUD note-taking app with local storage.  
+- 🔗 [**Fresh-Cart**](https://github.com/youssefwaleed22/fresh-cart) — E-commerce front-end with cart functionality and product listing.  
 
 ---
 
